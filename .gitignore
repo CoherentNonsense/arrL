@@ -1,0 +1,9 @@
+*.pdx/
+build/
+build_device/
+Source/pdex.bin
+Source/pdex.dll
+Source/pdex.dylib
+compile_commands.json
+.cache/
+.DS_Store
